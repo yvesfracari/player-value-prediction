@@ -2,7 +2,8 @@
 name = "player-value-prediction"
 version = "0.1.0"
 description = ""
-authors = ["Yves Fracari <yves.fracari@gmail.com>"]
+authors = ["Yves Fracari <yves.fracari@gmail.com>",
+           "Mathias Dutra Nichele <mathiasdutranichele@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">3.7.1, <3.11"
