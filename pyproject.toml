@@ -12,6 +12,9 @@ numpy = "^1.21.4"
 plotly = "^5.4.0"
 jupyter = "^1.0.0"
 pandas-profiling = {url = "https://github.com/pandas-profiling/pandas-profiling/archive/master.zip"}
+confuse = "^1.6.0"
+tqdm = "^4.62.3"
+visions = "^0.7.4"
 
 [tool.poetry.dev-dependencies]
 
